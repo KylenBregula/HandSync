@@ -1,6 +1,8 @@
+Developers: Kylen Bregula, Amber Jones, Isaiah Herard, Katharine Ringo
+
 HandSync
 
-HandSync is a Python-based hand gesture recognition project using MediaPipe and OpenCV. It enables real-time hand tracking and gesture control for various applications.
+HandSync is a Python-based hand gesture recognition project using MediaPipe and OpenCV. It enables real-time hand tracking and gesture control for various applications. This software currently have 5 features, go forward, go back, laser guide, light movement, and recording. More can be added, This was a hackathon challenge tackling Arthrex's goals.
 
 Features
 
