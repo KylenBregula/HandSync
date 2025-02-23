@@ -1,0 +1,26 @@
+HandSync
+
+HandSync is a Python-based hand gesture recognition project using MediaPipe and OpenCV. It enables real-time hand tracking and gesture control for various applications.
+
+Features
+
+Real-time hand tracking with MediaPipe
+
+Gesture recognition for custom interactions
+
+Uses OpenCV for video processing
+
+Designed for integration with machine learning and automation tasks
+
+Prerequisites
+Visual Studio Code
+Visual Studio Code Python Extensions
+Python (we used verion 3.11.9, must be python version 12 and lower for library compatibility
+
+| Setting Up Virtual Environment (Recommended) |
+Libaries 
+OpenCV
+Mediapipe
+import pyautogui
+
+
