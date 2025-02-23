@@ -1,5 +1,5 @@
 """
-Developers: Kylen Bregula, Amber Jones, 
+Developers: Kylen Bregula, Amber Jones, Isaiah Herard, Katharine Ringo
 Date: 22/22/2025
 Purpose: This software uses OpenCV to allow camera access via python and the Mediapipe library to detect hands from the camera.
          This is for Demonstration for a surgeon to use hand gestures for easy to access functions during operation.
